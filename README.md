@@ -1,4 +1,4 @@
-## :red_circle: Juego Simón Dice
+## 🔴 Juego Simón Dice
 
 Esta fue la aplicación realizada en el curso de [Fundamentos de JavaScript](https://platzi.com/clases/1339-fundamentos-javascript-2018/21791-bienvenidos-al-curso-de-fundamentos-de-javascript/ "Fundamentos de JavaScript") de Platzi.
 
