@@ -6,9 +6,7 @@ El juego consiste en que se va iluminando una secuencia de botones y el usuario 
 
 Tecnologías utilizadas: HTML, CSS y JavaScript
 
-¿Dónde puedo jugar? 
-
-El juego terminado está en el archivo Agregando los estados finales del juego
+Ahora vamos a jugar 👉 [Simón Dice](https://erikabernalm.github.io/juego-simon-dice/clase41-agregando-los-estados-finales-del-juego.html "Simón Dice")
 
 
 
