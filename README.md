@@ -8,5 +8,7 @@ Tecnologías utilizadas: HTML, CSS y JavaScript
 
 ¿Dónde puedo jugar? 
 
+El juego terminado está en el archivo Agregando los estados finales del juego
+
 
 
